@@ -58,5 +58,6 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
+* [SlowMist Hacked](https://hacked.slowmist.io/en/)
 
 ## Want to add some? Don't be afraid to contribute any company's I might have missed
