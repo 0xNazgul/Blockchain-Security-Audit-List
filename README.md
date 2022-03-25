@@ -54,4 +54,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
 
+## Comprehensive List of Hacks & Exploits
+* [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
+
 ## Want to add some? Don't be afraid to contribute any company's I might have missed
