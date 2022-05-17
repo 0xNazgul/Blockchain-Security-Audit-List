@@ -37,7 +37,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Quantstamp](https://quantstamp.com/)                                                | [Link](https://github.com/orgs/quantstamp/repositories?q=review&type=all&language=&sort=)           |
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)                                                         |
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)                                                          |
-| [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://runtimeverification.com/blog/category/audits)                                        |
+| [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)                                        |
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link (Under Featured Public Reports)](https://audit.shellboxes.com/)                               |
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)                                                       |
 | [Solidified](https://solidified.io/)                                                 | [Link](https://github.com/solidified-platform/audits)                                               |
