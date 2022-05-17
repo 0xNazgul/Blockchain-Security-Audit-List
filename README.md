@@ -24,6 +24,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Haechi](https://audit.haechi.io/#main)                                              | [Link](https://audit.haechi.io/archive)                                                             |
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)                                            |
 | [HashEx](https://hashex.org/)                                                        | [Link](https://blog.hashex.org/tagged/audit)                                                        |
+| [Hacxyk](https://hacxyk.com/)                                                        | [Link](https://hacxyk.com/)                                                                        |
 | [iosiro](https://www.iosiro.com/)                                                    | [Link](https://www.iosiro.com/audits)                                                               |
 | [Jakub Wojciechowski](https://kudelskisecurity.com)                                  | [Link](https://research.kudelskisecurity.com/?s=audit)                                              |
 | [Least Authority](https://leastauthority.com/)                                       | [Link](https://leastauthority.com/security-consulting/published-audits/)                            |
@@ -60,4 +61,4 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 
-## Want to add some? Don't be afraid to contribute any company's I might have missed
+## Want to add some? Don't be afraid to contribute any company I might have missed
