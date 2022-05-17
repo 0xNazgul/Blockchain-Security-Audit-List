@@ -1,5 +1,5 @@
 # Blockchain Security Audit List
-A list of notable Blockchain Security audit companies and where to find all their public audits. I noticed that sometimes they are a little hidden or not directly on their sites. So, I thought this would helpful for others having troubles finding company audit reports.
+A list of notable Blockchain Security audit companies and where to find all their public audits. I noticed that sometimes they are a little hidden or not directly on their sites. So, I thought this would be helpful for others having troubles finding company audit reports.
 
 | Audit Company                                                                        | Audits 
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
