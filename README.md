@@ -7,7 +7,6 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://docs.arcadia.agency/audits-and-code-reviews/directory)                               |
 | [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)                                                                |
 | [BlockSec](https://blocksecteam.com)                                                 | [Link](https://github.com/blocksecaudit/report)                                                     |
-| [Bramah Systems](https://www.bramah.systems/)                                        | [Link (Under Notable Customers)](https://www.bramah.systems/)                                       |
 | [byterocket](https://byterocket.com/)                                                | [Link](https://byterocket.com/audits)                                                               |
 | [Callisto Smart Contract Audits](https://callisto.network/smart-contract-audit/)     | [Link](https://callisto.network/security-audits/)                                                   |
 | [Certik](https://www.certik.org/)                                                    | [Link (Under Report)](https://www.certik.com/resources/blog)                                        |
