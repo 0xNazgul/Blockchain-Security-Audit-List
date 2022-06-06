@@ -24,7 +24,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)                                            |
 | [HashEx](https://hashex.org/)                                                        | [Link](https://blog.hashex.org/tagged/audit)                                                        |
 | [Hacxyk](https://hacxyk.com/)                                                        | [Link](https://hacxyk.com/)                                                                        |
-| [iosiro](https://www.iosiro.com/)                                                    | [Link](https://www.iosiro.com/audits)                                                               |
+| [InformalSystems](https://informal.systems/)                                         | [Link](https://github.com/informalsystems/audits)                                                  |
+| [iosiro](https://www.iosiro.com/)                                                    | [Link](https://www.iosiro.com/audits)                                                              |
 | [Jakub Wojciechowski](https://kudelskisecurity.com)                                  | [Link](https://research.kudelskisecurity.com/?s=audit)                                              |
 | [Least Authority](https://leastauthority.com/)                                       | [Link](https://leastauthority.com/security-consulting/published-audits/)                            |
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)                                                   |
