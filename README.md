@@ -9,7 +9,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [BlockSec](https://blocksecteam.com)                                                 | [Link](https://github.com/blocksecaudit/report)                                                     |
 | [byterocket](https://byterocket.com/)                                                | [Link](https://byterocket.com/audits)                                                               |
 | [Callisto Smart Contract Audits](https://callisto.network/smart-contract-audit/)     | [Link](https://callisto.network/security-audits/)                                                   |
-| [Certik](https://www.certik.org/)                                                    | [Link (Under Analysis Reports)](https://www.certik.com/resources/blog)                                         |
+| [Certik](https://www.certik.org/)                                                    | [Link (Click Any Project)](https://www.certik.com/)                                                 |
 | [Certora](https://www.certora.com/)                                                  | [Link](https://www.certora.com/#Reports)                                                             |
 | [Chain Safe](https://chainsafe.io/)                                                  | [Link](https://github.com/ChainSafe/audits)                                                         |
 | [Chain Security](https://chainsecurity.com/)                                         | [Link](https://chainsecurity.com/audits/)                                                           |
