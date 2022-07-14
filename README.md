@@ -14,6 +14,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Chain Safe](https://chainsafe.io/)                                                  | [Link](https://github.com/ChainSafe/audits)                                                         |
 | [Chain Security](https://chainsecurity.com/)                                         | [Link](https://chainsecurity.com/audits/)                                                           |
 | [Chainsulting](https://chainsulting.de/)                                             | [Link](https://github.com/chainsulting/Smart-Contract-Security-Audits)                               |
+| [Code4rena](https://code4rena.com/)                                                  | [Link](https://github.com/orgs/code-423n4/repositories?q=findings&type=all&language=&sort=)                               |
 | [CoinFabrik](https://www.coinfabrik.com/)                                            | [Link](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)  |
 | [Coinspect](https://www.coinspect.com/)                                              | [Link](https://www.coinspect.com/#blog)                                                             |
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)                                                             |
