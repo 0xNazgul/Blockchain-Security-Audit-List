@@ -41,6 +41,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)                                                           |
 | [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)                                        |
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link (Under Featured Public Reports)](https://audit.shellboxes.com/)                               |
+| [Sherlock](https://www.sherlock.xyz/)                                                | [Link](https://github.com/sherlock-protocol/sherlock-reports)                                       |
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)                                                       |
 | [Solidified](https://solidified.io/)                                                 | [Link](https://github.com/solidified-platform/audits)                                               |
 | [Solidity Finance](https://solidity.finance/)                                        | [Link](https://solidity.finance/audits/)                                                             |
