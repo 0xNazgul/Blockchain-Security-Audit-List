@@ -5,6 +5,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                                                   |
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://docs.arcadia.agency/audits-and-code-reviews/directory)                               |
+| [Beosin](https://beosin.com/)                                                        | [Link (Under Security Incident)](https://beosin.com/resources)                                                                 |
 | [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)                                                                 |
 | [BlockSec](https://blocksecteam.com)                                                 | [Link](https://github.com/blocksecaudit/report)                                                     |
 | [byterocket](https://byterocket.com/)                                                | [Link](https://byterocket.com/audits)                                                               |
