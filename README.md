@@ -32,6 +32,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Jakub Wojciechowski](https://kudelskisecurity.com)                                  | [Link](https://research.kudelskisecurity.com/?s=audit)                                               |
 | [Least Authority](https://leastauthority.com/)                                       | [Link](https://leastauthority.com/security-consulting/published-audits/)                             |
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)                                                   |
+| [MoveBit](https://www.movebit.xyz/)                                                  | [Link](https://www.movebit.xyz/#project)                                                             |
 | [Oak Security](https://www.oaksecurity.io/)                                          | [Link](https://github.com/oak-security/audit-reports)                                               |
 | [Obelisk](https://obeliskauditing.com/)                                              | [Link](https://obeliskauditing.com/audits)                                                           |
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)                                               |
