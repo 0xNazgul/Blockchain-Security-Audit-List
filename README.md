@@ -38,6 +38,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)                                               |
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)                                                               |
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)                         |
+| [PepperSec](https://peppersec.com/)                                                  | [Link](https://github.com/peppersec/public-audit-reports)                                           |
 | [Pessemistic](https://pessimistic.io/)                                               | [Link](https://github.com/pessimistic-io/audits)                                                     |
 | [Quantstamp](https://quantstamp.com/)                                                | [Link](https://github.com/orgs/quantstamp/repositories?q=review&type=all&language=&sort=)           |
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)                                                         |
