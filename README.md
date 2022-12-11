@@ -45,6 +45,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)                                                         |
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)                                                           |
 | [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)                                        |
+| [Secure3](https://www.secure3.io/)                                                   | [Link](https://github.com/orgs/Secure3Audit/repositories)                                           |
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link (Under Featured Public Reports)](https://audit.shellboxes.com/)                               |
 | [Sherlock](https://www.sherlock.xyz/)                                                | [Link](https://github.com/sherlock-protocol/sherlock-reports)                                       |
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)                                                       |
@@ -55,6 +56,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)                                                           |
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)                                         |
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications#smart-contracts)                                 |
+| [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/#reports)                                                               |
+| [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)                                                           |
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://www.zokyo.io/audit-reports)                                                           |
 
 
