@@ -57,6 +57,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)                                         |
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications#smart-contracts)                                 |
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/#reports)                                                               |
+| [yAcademy](https://yacademy.dev/)                                                    | [Link](https://reports.yacademy.dev/)                                                               |
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)                                                           |
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://www.zokyo.io/audit-reports)                                                           |
 
