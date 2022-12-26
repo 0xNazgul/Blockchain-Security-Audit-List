@@ -13,6 +13,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Callisto Smart Contract Audits](https://callisto.network/smart-contract-audit/)     | [Link](https://callisto.network/security-audits/)                                                   |
 | [Certik](https://www.certik.org/)                                                    | [Link (Click Any Project)](https://www.certik.com/)                                                 |
 | [Certora](https://www.certora.com/)                                                  | [Link](https://www.certora.com/#Reports)                                                             |
+| [ChainLight](https://chainlight.io/)                                                 | [Link](https://github.com/theori-io/web3-publications)                                               |
 | [Chain Safe](https://chainsafe.io/)                                                  | [Link](https://github.com/ChainSafe/audits)                                                         |
 | [Chain Security](https://chainsecurity.com/)                                         | [Link](https://chainsecurity.com/audits/)                                                           |
 | [Chainsulting](https://chainsulting.de/)                                             | [Link](https://github.com/chainsulting/Smart-Contract-Security-Audits)                               |
