@@ -64,13 +64,13 @@ A list of notable Blockchain Security audit companies and where to find all thei
 
 
 ## Websites That Put Together Audits Based On The Project
+* [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
 * [Omniscia](https://omniscia.io/)
 
-* [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
-
 ## Comprehensive List of Hacks & Exploits
-* [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
+* [DefiLlama](https://defillama.com/hacks)
+* [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 
