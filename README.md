@@ -2,7 +2,7 @@
 A list of notable Blockchain Security audit companies and where to find all their public audits. I noticed that sometimes they are a little hidden or not directly on their sites. So, I thought this would be helpful for others having troubles finding company audit reports.
 
 | Audit Company                                                                        | Audits 
-|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|---|---|
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                                                   |
 | [Ackee Blockchain](https://ackeeblockchain.com/blog/)                                | [Link](https://ackeeblockchain.com/blog/category/audits/)                                           |
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://docs.arcadia.agency/audits-and-code-reviews/directory)                               |
@@ -19,7 +19,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Chainsulting](https://chainsulting.de/)                                             | [Link](https://github.com/chainsulting/Smart-Contract-Security-Audits)                               |
 | [Code4rena](https://code4rena.com/)                                                  | [Link](https://github.com/orgs/code-423n4/repositories?q=findings&type=all&language=&sort=)                               |
 | [CoinFabrik](https://www.coinfabrik.com/)                                            | [Link](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)  |
-| [Coinspect](https://www.coinspect.com/)                                              | [Link](https://github.com/coinspect/publications)                                                             |
+| [Coinspect](https://www.coinspect.com/)                                              | [Link](https://github.com/coinspect/publications)                                                   |
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)                                                             |
 | [Dilligence](https://consensys.net/diligence/)                                       | [Link](https://github.com/orgs/ConsenSys/repositories?q=audit&type=all&language=&sort=)             |
 | [FuzzingLabs](https://fuzzinglabs.com/)                                       | [Link](https://fuzzinglabs.com/blockchain-security-fuzzing/)             |
@@ -27,9 +27,9 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Hacken](https://hacken.io/)                                                         | [Link](https://hacken.io/audits/)                                                                   |
 | [Haechi](https://audit.haechi.io/#main)                                              | [Link](https://audit.haechi.io/archive)                                                             |
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)                                             |
-| [HashEx](https://hashex.org/)                                                        | [Link](https://blog.hashex.org/tagged/audit)                                                         |
 | [Hacxyk](https://hacxyk.com/)                                                        | [Link](https://hacxyk.com/)                                                                         |
-| [Hexens](https://hexens.io/)                                                         | [Link](https://hexens.io/audits)                                                                                  |
+| [HashEx](https://hashex.org/)                                                        | [Link](https://blog.hashex.org/tagged/audit)                                                         |
+| [Hexens](https://hexens.io/)                                                         | [Link](https://hexens.io/audits)                                                                     |
 | [InformalSystems](https://informal.systems/)                                         | [Link](https://github.com/informalsystems/audits)                                                   |
 | [iosiro](https://www.iosiro.com/)                                                    | [Link](https://www.iosiro.com/audits)                                                               |
 | [Jakub Wojciechowski](https://kudelskisecurity.com)                                  | [Link](https://research.kudelskisecurity.com/?s=audit)                                               |
@@ -62,7 +62,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications#smart-contracts)                                 |
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/#reports)                                                               |
 | [yAcademy](https://yacademy.dev/)                                                    | [Link](https://reports.yacademy.dev/)                                                               |
-| [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)                                                           |
+| [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)                                                       |
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://www.zokyo.io/audit-reports)                                                           |
 
 
