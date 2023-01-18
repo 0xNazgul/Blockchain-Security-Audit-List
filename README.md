@@ -37,6 +37,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [MoveBit](https://www.movebit.xyz/)                                                  | [Link](https://www.movebit.xyz/#project)                                                             |
 | [Oak Security](https://www.oaksecurity.io/)                                          | [Link](https://github.com/oak-security/audit-reports)                                               |
 | [Obelisk](https://obeliskauditing.com/)                                              | [Link](https://obeliskauditing.com/audits)                                                           |
+| [Omniscia](https://omniscia.io/about-us)                                             | [Link](https://omniscia.io/)                                                                         |
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)                                               |
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)                                                               |
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)                         |
@@ -65,11 +66,11 @@ A list of notable Blockchain Security audit companies and where to find all thei
 
 ## Websites That Put Together Audits Based On The Project
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
-* [Omniscia](https://omniscia.io/)
 
 ## Comprehensive List of Hacks & Exploits
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
 * [DefiLlama](https://defillama.com/hacks)
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 * [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
