@@ -77,4 +77,12 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 
+## Findings Search Utilities
+Great tools for looking for more specific findings
+* [Audit Hero](https://audit-hero.com/finding)
+* [Masamune](https://masamune.app/?#)
+* [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
+  1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
+  2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
+
 ## Want to add some? Don't be afraid to contribute any company I might have missed
