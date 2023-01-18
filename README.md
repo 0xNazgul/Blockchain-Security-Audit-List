@@ -22,7 +22,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Coinspect](https://www.coinspect.com/)                                              | [Link](https://github.com/coinspect/publications)                                                   |
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)                                                             |
 | [Dilligence](https://consensys.net/diligence/)                                       | [Link](https://github.com/orgs/ConsenSys/repositories?q=audit&type=all&language=&sort=)             |
-| [FuzzingLabs](https://fuzzinglabs.com/)                                       | [Link](https://fuzzinglabs.com/blockchain-security-fuzzing/)             |
+| [FuzzingLabs](https://fuzzinglabs.com/)                                              | [Link](https://fuzzinglabs.com/blockchain-security-fuzzing/)                                         |
+| [GuardianAudits](https://guardianaudits.com/)                                        | [Link](https://github.com/GuardianAudits/Audits)                                                     |
 | [G0 Group](https://github.com/g0-group)                                              | [Link](https://github.com/g0-group/Audits)                                                           |
 | [Hacken](https://hacken.io/)                                                         | [Link](https://hacken.io/audits/)                                                                   |
 | [Haechi](https://audit.haechi.io/#main)                                              | [Link](https://audit.haechi.io/archive)                                                             |
