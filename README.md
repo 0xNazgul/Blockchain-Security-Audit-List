@@ -8,7 +8,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)                                           |
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://docs.arcadia.agency/audits-and-code-reviews/directory)                               |
 | [Beosin](https://beosin.com/)                                                        | [Link (Under Security Incident)](https://beosin.com/resources)                                       |
-| [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)                                                                 |
+| [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)   
+| [BlockApex](https://blockapex.io)                                                    | [Link](https://blockapex.io/audit-reports/)   
 | [BlockSec](https://blocksecteam.com)                                                 | [Link](https://github.com/blocksecaudit/report)                                                     |
 | [byterocket](https://byterocket.com/)                                                | [Link](https://byterocket.com/audits)                                                               |
 | [Callisto Smart Contract Audits](https://callisto.network/smart-contract-audit/)     | [Link](https://callisto.network/security-audits/)                                                   |
