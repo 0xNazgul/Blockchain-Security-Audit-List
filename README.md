@@ -19,11 +19,12 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Chain Safe](https://chainsafe.io/)                                                  | [Link](https://github.com/ChainSafe/audits)                                                         |
 | [Chain Security](https://chainsecurity.com/)                                         | [Link](https://chainsecurity.com/audits/)                                                           |
 | [Chainsulting](https://chainsulting.de/)                                             | [Link](https://github.com/chainsulting/Smart-Contract-Security-Audits)                               |
-| [Code4rena](https://code4rena.com/)                                                  | [Link](https://github.com/orgs/code-423n4/repositories?q=findings&type=all&language=&sort=)                               |
-| [CoinFabrik](https://www.coinfabrik.com/)                                            | [Link](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)  |
+| [Code4rena](https://code4rena.com/)                                                  | [Link](https://github.com/orgs/code-423n4/repositories?q=findings&type=all&language=&sort=)    |
+| [CoinFabrik](https://www.coinfabrik.com/)                                            | [Link](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)    |
 | [Coinspect](https://www.coinspect.com/)                                              | [Link](https://github.com/coinspect/publications)                                                   |
+| [CredShields](https://credshields.com/index.html)                                    | [Link](https://github.com/Credshields/Audit-Reports)                                                 |
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)                                                             |
-| [Dilligence](https://consensys.net/diligence/)                                       | [Link](https://github.com/orgs/ConsenSys/repositories?q=audit&type=all&language=&sort=)             |
+| [Dilligence](https://consensys.net/diligence/)                                       | [Link](https://github.com/orgs/ConsenSys/repositories?q=audit&type=all&language=&sort=)    |
 | [FuzzingLabs](https://fuzzinglabs.com/)                                              | [Link](https://fuzzinglabs.com/blockchain-security-fuzzing/)                                         |
 | [GuardianAudits](https://guardianaudits.com/)                                        | [Link](https://github.com/GuardianAudits/Audits)                                                     |
 | [G0 Group](https://github.com/g0-group)                                              | [Link](https://github.com/g0-group/Audits)                                                           |
