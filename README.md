@@ -86,6 +86,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 
 ## Findings Search Utilities/DBs
 Great tools for looking for more specific findings
+* [Solodit](https://solodit.xyz)
 * [Audit Hero](https://audit-hero.com/finding)
 * [Masamune](https://masamune.app/?#)
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
