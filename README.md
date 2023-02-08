@@ -26,6 +26,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [CredShields](https://credshields.com/index.html)                                    | [Link](https://github.com/Credshields/Audit-Reports)                                                 |
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)                                                             |
 | [Dilligence](https://consensys.net/diligence/)                                       | [Link](https://github.com/orgs/ConsenSys/repositories?q=audit&type=all&language=&sort=)    |
+| [Distributed Lab](https://distributedlab.com/)                                       | [Link](https://github.com/dl-solidity-library/audits)                                               |
 | [FuzzingLabs](https://fuzzinglabs.com/)                                              | [Link](https://fuzzinglabs.com/blockchain-security-fuzzing/)                                         |
 | [GuardianAudits](https://guardianaudits.com/)                                        | [Link](https://github.com/GuardianAudits/Audits)                                                     |
 | [G0 Group](https://github.com/g0-group)                                              | [Link](https://github.com/g0-group/Audits)                                                           |
