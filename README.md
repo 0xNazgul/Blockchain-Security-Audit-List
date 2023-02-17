@@ -72,7 +72,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/#reports)                                                               |
 | [yAcademy](https://yacademy.dev/)                                                    | [Link](https://reports.yacademy.dev/)                                                               |
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)                                                       |
-| [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://www.zokyo.io/audit-reports)                                                           |
+| [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)                                                   |
 
 ## Blockchain Security News
 * [Week in Ethereum News](https://weekinethereumnews.com/)
