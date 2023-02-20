@@ -78,6 +78,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Week in Ethereum News](https://weekinethereumnews.com/)
 * [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/archive)
 * [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
+* [HashingBits](https://quillaudits.substack.com/)
 * [Immunefi](https://immunefi.medium.com/)
 
 ## Comprehensive List of Hacks & Exploits
@@ -87,6 +88,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
+* [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 
 ## Findings Search Utilities/DBs
 Great tools for looking for more specific findings
