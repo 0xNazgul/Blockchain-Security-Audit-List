@@ -1,5 +1,5 @@
 # Blockchain Security Audit List
-A list of notable Blockchain Security audit companies and where to find all their public audits. I noticed that sometimes they are a little hidden or not directly on their sites. So, I thought this would be helpful for others having troubles finding company audit reports.
+A list of notable Blockchain Security audit companies and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
 
 | Audit Company                                                                        | Audits 
 |---|---|
@@ -75,29 +75,29 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)                                                   |
 
 ## Blockchain Security News
-* [Week in Ethereum News](https://weekinethereumnews.com/)
 * [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/archive)
-* [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
 * [HashingBits](https://quillaudits.substack.com/)
 * [Immunefi](https://immunefi.medium.com/)
+* [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
+* [Week in Ethereum News](https://weekinethereumnews.com/)
 
 ## Comprehensive List of Hacks & Exploits
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
-* [DefiLlama](https://defillama.com/hacks)
 * [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [DefiLlama](https://defillama.com/hacks)
 * [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
-* [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 
 ## Findings Search Utilities/DBs
 Great tools for looking for more specific findings
-* [Solodit](https://solodit.xyz)
 * [Audit Hero](https://audit-hero.com/finding)
-* [Masamune](https://masamune.app/?#)
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
+* [Masamune](https://masamune.app/?#)
+* [Solodit](https://solodit.xyz)
 * [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
   1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
   2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 
-## Want to add some? Don't be afraid to contribute any company I might have missed
+## Want to add some? Don't be afraid to contribute anything I might have missed.
