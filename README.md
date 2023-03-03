@@ -60,6 +60,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [PepperSec](https://peppersec.com/)                                                  | [Link](https://github.com/peppersec/public-audit-reports)
 | [Pessemistic](https://pessimistic.io/)                                               | [Link](https://github.com/pessimistic-io/audits)
 | [Quantstamp](https://quantstamp.com/)                                                | [Link](https://github.com/orgs/quantstamp/repositories?q=review&type=all&language=&sort=)
+| [Quantum Brief](https://quantumbrief.io/)                                            | [Link](https://drive.google.com/drive/folders/1v48mOJcyFCY9Z2EVqdTd5hKrzNrxJ5dy)
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
 | [REDTEAM.PL](https://redteam.pl/)                                                    | [Link](https://github.com/redteampl/public_reports)
