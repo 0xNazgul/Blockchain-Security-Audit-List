@@ -79,6 +79,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [SolidProof](https://solidproof.io/)                                                 | [Link](https://github.com/solidproof/projects)
 | [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio)
 | [Spearbit](https://spearbit.com/)                                                    | [Link](https://github.com/spearbit/portfolio)
+| [Statemind](https://statemind.io/)                                                   | [Link](https://github.com/statemindio/public-audits)
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications#smart-contracts)
