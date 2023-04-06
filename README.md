@@ -46,6 +46,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [InterFi](https://www.interfi.network/)                                              | [Link](https://www.interfi.network/audits)
 | [Iosiro](https://www.iosiro.com/)                                                    | [Link](https://www.iosiro.com/audits)
 | [Jakub Wojciechowski](https://kudelskisecurity.com)                                  | [Link](https://research.kudelskisecurity.com/?s=audit)
+| [Kebabsec](https://kebabsec.xyz/)                                                    | [Link](https://kebabsec.xyz/audits/)
 | [Least Authority](https://leastauthority.com/)                                       | [Link](https://leastauthority.com/security-consulting/published-audits/)
 | [Macro](https://0xmacro.com/)                                                        | [Link](https://0xmacro.com/library)
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)
