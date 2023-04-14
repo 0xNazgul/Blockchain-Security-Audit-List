@@ -67,6 +67,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
 | [REDTEAM.PL](https://redteam.pl/)                                                    | [Link](https://github.com/redteampl/public_reports)
 | [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)
+| [Sec3](https://www.sec3.dev/)                                                        | [Link](https://github.com/sec3-service/reports)
 | [Secbit Labs](https://secbit.io/)                                                    | [Link](https://github.com/orgs/sec-bit/repositories?q=audit&type=all&language=&sort=)
 | [Secure3](https://www.secure3.io/)                                                   | [Link](https://github.com/orgs/Secure3Audit/repositories)
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link (Under Featured Public Reports)](https://audit.shellboxes.com/)
