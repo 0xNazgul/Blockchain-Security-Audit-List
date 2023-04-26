@@ -85,6 +85,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications#smart-contracts)
+| [Truscova](https://www.truscova.com/index.php)                                       | [Link](https://github.com/Truscova/Reports)
 | [Verichains](https://www.verichains.io/)                                             | [Link](https://github.com/verichains/public-audit-reports)
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/audits/)
 | [yAcademy](https://yacademy.dev/)                                                    | [Link](https://reports.yacademy.dev/)
