@@ -4,7 +4,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | Audit Company                                                                        | Audits 
 |---|---|
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
-| [Ackee Blockchain](https://ackeeblockchain.com/)                                | [Link]([https://ackeeblockchain.com/blog/category/audits/](https://ackeeblockchain.com/blog/list-of-our-public-audits/))
+| [Ackee Blockchain](https://ackeeblockchain.com/)                                     | [Link](https://ackeeblockchain.com/blog/list-of-our-public-audits/)
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://www.arcadia.agency/auditReports)
 | [Beosin](https://beosin.com/)                                                        | [Link (Under Security Incident)](https://beosin.com/resources)
@@ -118,6 +118,7 @@ Great tools for looking for more specific findings
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
 * [Masamune](https://masamune.app/?#)
 * [Solodit](https://solodit.xyz)
+* [tintinweb smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb)
 * [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
   1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
   2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
