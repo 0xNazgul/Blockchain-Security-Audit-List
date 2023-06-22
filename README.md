@@ -4,7 +4,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | Audit Company                                                                        | Audits 
 |---|---|
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
-| [Ackee Blockchain](https://ackeeblockchain.com/blog/)                                | [Link](https://ackeeblockchain.com/blog/category/audits/)
+| [Ackee Blockchain](https://ackeeblockchain.com/)                                | [Link]([https://ackeeblockchain.com/blog/category/audits/](https://ackeeblockchain.com/blog/list-of-our-public-audits/))
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
 | [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://www.arcadia.agency/auditReports)
 | [Beosin](https://beosin.com/)                                                        | [Link (Under Security Incident)](https://beosin.com/resources)
