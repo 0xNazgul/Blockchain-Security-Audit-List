@@ -76,6 +76,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link (Under Featured Public Reports)](https://audit.shellboxes.com/)
 | [Sherlock](https://www.sherlock.xyz/)                                                | [Link](https://github.com/sherlock-protocol/sherlock-reports)
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)
+| [SlowMist](https://www.slowmist.com)                                                 | [Link](https://github.com/slowmist/Knowledge-Base/tree/master/open-report-V2)
 | [SMC Auditors](https://smcauditors.com/index.html)                                   | [Link](https://github.com/smcauditors/smart-contract-audits)
 | [SmolQuants (Economic Audits)](https://www.smolquants.xyz/)                          | [Link](https://github.com/orgs/smolquants/repositories?q=audit&type=all&language=&sort=)
 | [Soken](https://soken.io/)                                                           | [Link](https://soken.io/audit-reports/)
