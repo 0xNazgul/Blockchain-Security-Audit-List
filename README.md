@@ -107,7 +107,7 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
 * [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 * [DefiLlama](https://defillama.com/hacks)
-* [Openzeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [OpenZeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
