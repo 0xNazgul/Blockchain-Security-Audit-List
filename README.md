@@ -1,6 +1,16 @@
 # Blockchain Security Audit List
-A list of notable Blockchain Security audit companies and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
+A list of Blockchain Security audit companies and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
 
+## Table of contents
+- [Blockchain Security Audit List](#blockchain-security-audit-list)
+  - [Table of contents](#table-of-contents)
+  - [Audit Companies](#audit-companies)
+  - [Blockchain Security News](#blockchain-security-news)
+  - [Comprehensive List of Hacks \& Exploits](#comprehensive-list-of-hacks--exploits)
+  - [Findings Search Utilities/DBs](#findings-search-utilitiesdbs)
+  - [Contributing](#contributing)
+
+## Audit Companies
 | Audit Company                                                                        | Audits 
 |---|---|
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
@@ -97,12 +107,16 @@ A list of notable Blockchain Security audit companies and where to find all thei
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)
 
+[Back to top](#blockchain-security-audit-list) 
+
 ## Blockchain Security News
 * [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/archive)
 * [HashingBits](https://quillaudits.substack.com/)
 * [Immunefi](https://immunefi.medium.com/)
 * [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
 * [Week in Ethereum News](https://weekinethereumnews.com/)
+
+[Back to top](#blockchain-security-audit-list) 
 
 ## Comprehensive List of Hacks & Exploits
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
@@ -112,6 +126,8 @@ A list of notable Blockchain Security audit companies and where to find all thei
 * [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
+
+[Back to top](#blockchain-security-audit-list) 
 
 ## Findings Search Utilities/DBs
 Great tools for looking for more specific findings
@@ -124,5 +140,9 @@ Great tools for looking for more specific findings
   1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
   2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 
+[Back to top](#blockchain-security-audit-list) 
+
 ## Contributing
 Want to add some? Don't be afraid to contribute anything I might have missed. The only requirement I ask is that the company has public audit reports.
+
+[Back to top](#blockchain-security-audit-list) 
