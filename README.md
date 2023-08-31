@@ -114,6 +114,7 @@ A list of Blockchain Security audit companies and where to find all their public
 * [HashingBits](https://quillaudits.substack.com/)
 * [Immunefi](https://immunefi.medium.com/)
 * [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
+* [Web3Sec News](https://www.web3sec.news/)
 * [Week in Ethereum News](https://weekinethereumnews.com/)
 
 [Back to top](#blockchain-security-audit-list) 
