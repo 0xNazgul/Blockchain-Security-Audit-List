@@ -121,14 +121,19 @@ A list of Blockchain Security audit companies and where to find all their public
 
 ## Comprehensive List of Hacks & Exploits
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
+* [DeFi Fork Bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
+* [Defi Hack Analysis](https://github.com/abdulsamijay/Defi-Hack-Analysis-POC)
 * [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [DeFi POC](https://github.com/blocksecteam/defi_poc)
 * [DefiLlama](https://defillama.com/hacks)
+* [Hack Analysis POCs](https://github.com/immunefi-team/hack-analysis-pocs)
 * [OpenZeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
 * [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
+* [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
 
-[Back to top](#blockchain-security-audit-list) 
+[Back to top](#blockchain-security-audit-list)
 
 ## Findings Search Utilities/DBs
 Great tools for looking for more specific findings
