@@ -1,10 +1,11 @@
 # Blockchain Security Audit List
-A list of Blockchain Security audit companies and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
+A list of Blockchain Security audit companies, solo auditors and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
 
 ## Table of contents
 - [Blockchain Security Audit List](#blockchain-security-audit-list)
   - [Table of contents](#table-of-contents)
   - [Audit Companies](#audit-companies)
+  - [Solo Auditors](#solo-auditors)
   - [Blockchain Security News](#blockchain-security-news)
   - [Comprehensive List of Hacks \& Exploits](#comprehensive-list-of-hacks--exploits)
   - [Findings Search Utilities/DBs](#findings-search-utilitiesdbs)
@@ -71,7 +72,7 @@ A list of Blockchain Security audit companies and where to find all their public
 | [Oxorio](https://oxor.io)                                                            | [Link](https://github.com/oxor-io/public_audits)
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)
-[PepperSec](https://github.com/peppersec)                                              | [Link](https://github.com/peppersec/public-audit-reports)
+| [PepperSec](https://github.com/peppersec)                                            | [Link](https://github.com/peppersec/public-audit-reports)
 | [Pessemistic](https://pessimistic.io/)                                               | [Link](https://github.com/pessimistic-io/audits)
 | [Quantstamp](https://quantstamp.com/)                                                | [Link](https://quantstamp.com/audits)
 | [Quantum Brief](https://quantumbrief.io/)                                            | [Link](https://drive.google.com/drive/folders/1v48mOJcyFCY9Z2EVqdTd5hKrzNrxJ5dy)
@@ -93,7 +94,7 @@ A list of Blockchain Security audit companies and where to find all their public
 | [Solidified](https://solidified.io/)                                                 | [Link](https://github.com/solidified-platform/audits)
 | [Solidity Finance](https://solidity.finance/)                                        | [Link](https://solidity.finance/audits/)
 | [SolidProof](https://solidproof.io/)                                                 | [Link](https://github.com/solidproof/projects)
-| [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio)
+| [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio))
 | [Spearbit](https://spearbit.com/)                                                    | [Link](https://github.com/spearbit/portfolio)
 | [Statemind](https://statemind.io/)                                                   | [Link](https://github.com/statemindio/public-audits)
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)
@@ -106,6 +107,22 @@ A list of Blockchain Security audit companies and where to find all their public
 | [yAudit](https://yaudit.dev/)                                                        | [Link](https://github.com/yAudit/reports)
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)
+
+[Back to top](#blockchain-security-audit-list) 
+
+## Solo Auditors
+| Auditor
+|---|
+| [Adrian Romero](https://github.com/romeroadrian/audits)             |
+| [Akshay Srivastav](https://github.com/akshaysrivastav/audits)       |
+| [Dirk Brink](https://github.com/djb15/security-reviews)             |
+| [GoGo](https://github.com/gogotheauditor/audits)                    |
+| [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
+| [MiloTruck](https://github.com/MiloTruck/audits)                    |
+| [Pashov](https://github.com/pashov/audits)                          |  
+| [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
+| [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
+| [Zobront](https://github.com/zobront/audits)                        |
 
 [Back to top](#blockchain-security-audit-list) 
 
@@ -140,6 +157,7 @@ Great tools for looking for more specific findings
 * [Audit Hero](https://audit-hero.com/finding)
 * [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
 * [Masamune](https://masamune.app/?#)
+* [Public Audit Reports Data](https://github.com/nikitastupin/public-audit-reports-data)
 * [Solodit](https://solodit.xyz)
 * [tintinweb smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb)
 * [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
