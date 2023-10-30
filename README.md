@@ -63,6 +63,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Macro](https://0xmacro.com/)                                                        | [Link](https://0xmacro.com/library)
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)
 | [MoveBit](https://www.movebit.xyz/)                                                  | [Link](https://www.movebit.xyz/#project)
+| [Nethermind](https://nethermind.io)                                                  | [Link](https://github.com/NethermindEth/PublicAuditReports)
 | [New Alchemy](https://newalchemy.io/)                                                | [Link](https://medium.com/new-alchemy/tagged/security)
 | [Numen](https://www.numencyber.com/)                                                 | [Link](https://github.com/numencyber/Public_Report)
 | [Oak Security](https://www.oaksecurity.io/)                                          | [Link](https://github.com/oak-security/audit-reports)
