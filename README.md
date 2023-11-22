@@ -119,7 +119,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Adrian Romero](https://github.com/romeroadrian/audits)             |
 | [Akshay Srivastav](https://github.com/akshaysrivastav/audits)       |
 | [Dirk Brink](https://github.com/djb15/security-reviews)             |
-| [GoGo](https://github.com/gogotheauditor/audits)                    |
+| [Gogo](https://github.com/gogotheauditor/audits)                    |
 | [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
 | [MiloTruck](https://github.com/MiloTruck/audits)                    |
 | [Pashov](https://github.com/pashov/audits)                          |  
