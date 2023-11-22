@@ -74,7 +74,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)
 | [PepperSec](https://github.com/peppersec)                                            | [Link](https://github.com/peppersec/public-audit-reports)
 | [Pessemistic](https://pessimistic.io/)                                               | [Link](https://github.com/pessimistic-io/audits)
-| [Quantstamp](https://quantstamp.com/)                                                | [Link](https://quantstamp.com/audits)
+| [Quantstamp](https://quantstamp.com/)                                                | [Link](https://certificate.quantstamp.com)
 | [Quantum Brief](https://quantumbrief.io/)                                            | [Link](https://drive.google.com/drive/folders/1v48mOJcyFCY9Z2EVqdTd5hKrzNrxJ5dy)
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
