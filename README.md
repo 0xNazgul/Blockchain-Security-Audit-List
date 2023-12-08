@@ -106,6 +106,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Truscova](https://www.truscova.com/index.php)                                       | [Link](https://github.com/Truscova/Reports)
 | [Verichains](https://www.verichains.io/)                                             | [Link](https://github.com/verichains/public-audit-reports)
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/audits/)
+| [Verilog Solutions](https://verilog.solutions/)                                      | [Link](https://github.com/Verilog-Solutions)
 | [yAcademy](https://yacademy.dev/)                                                    | [Link](https://github.com/yacademy/audits)
 | [yAudit](https://yaudit.dev/)                                                        | [Link](https://github.com/yAudit/reports)
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)
