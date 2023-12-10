@@ -121,6 +121,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Dirk Brink](https://github.com/djb15/security-reviews)             |
 | [Gogo](https://github.com/gogotheauditor/audits)                    |
 | [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
+| [Jakub Heba](https://github.com/jakub-heba/portfolio)               |
 | [MiloTruck](https://github.com/MiloTruck/audits)                    |
 | [Pashov](https://github.com/pashov/audits)                          |  
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
