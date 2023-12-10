@@ -97,7 +97,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Solidified](https://solidified.io/)                                                 | [Link](https://github.com/solidified-platform/audits)
 | [Solidity Finance](https://solidity.finance/)                                        | [Link](https://solidity.finance/audits/)
 | [SolidProof](https://solidproof.io/)                                                 | [Link](https://github.com/solidproof/projects)
-| [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio))
+| [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio)
 | [Spearbit](https://spearbit.com/)                                                    | [Link](https://github.com/spearbit/portfolio)
 | [Statemind](https://statemind.io/)                                                   | [Link](https://github.com/statemindio/public-audits)
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)
