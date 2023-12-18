@@ -50,7 +50,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Hacken](https://hacken.io/)                                                         | [Link](https://hacken.io/audits/)
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)
 | [Hacxyk](https://hacxyk.com/)                                                        | [Link](https://hacxyk.com/)
-| [HashEx](https://hashex.org/)                                                        | [Link](https://blog.hashex.org/tagged/audit)
+| [HashEx](https://hashex.org/)                                                        | [Link](https://hashex.org/audits/)
 | [Hexens](https://hexens.io/)                                                         | [Link](https://github.com/Hexens/Smart-Contract-Review-Public-Reports)
 | [Immunebytes](https://www.immunebytes.com/)                                          | [Link](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/)
 | [InformalSystems](https://informal.systems/)                                         | [Link](https://github.com/informalsystems/audits)
