@@ -89,6 +89,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [SharkTeam](https://www.sharkteam.org/)                                              | [Link](https://www.sharkteam.org/#auditReports)
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link](https://github.com/shellboxes/public-audit-reports)
 | [Sherlock](https://www.sherlock.xyz/)                                                | [Link](https://github.com/sherlock-protocol/sherlock-reports)
+| [Shieldify](https://www.shieldify.org) | [Link](https://github.com/shieldify-security/audits-portfolio)
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)
 | [SlowMist](https://www.slowmist.com)                                                 | [Link](https://github.com/slowmist/Knowledge-Base/tree/master/open-report-V2)
 | [SmartState](https://smartstate.tech/)                                               | [Link](https://smartstate.tech/reports.html)
