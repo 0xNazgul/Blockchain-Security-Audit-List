@@ -82,6 +82,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
 | [REDTEAM.PL](https://redteam.pl/)                                                    | [Link](https://github.com/redteampl/public_reports)
+| [RugDog](https://rugdog.net/)                                                        | [Link](https://github.com/rugdognet/reports)
 | [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)
 | [Sec3](https://www.sec3.dev/)                                                        | [Link](https://github.com/sec3-service/reports)
 | [Secbit Labs](https://secbit.io/)                                                    | [Link](https://github.com/orgs/sec-bit/repositories?q=audit&type=all&language=&sort=)
