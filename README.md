@@ -105,6 +105,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications/tree/master/reviews)
 | [Truscova](https://www.truscova.com/index.php)                                       | [Link](https://github.com/Truscova/Reports)
+| [Trust Security](https://www.trust-security.xyz/)                                    | [Link](https://www.trust-security.xyz/trust-security-audits)
 | [Verichains](https://www.verichains.io/)                                             | [Link](https://github.com/verichains/public-audit-reports)
 | [Veridise](https://veridise.com/)                                                    | [Link](https://veridise.com/audits/)
 | [Verilog Solutions](https://verilog.solutions/)                                      | [Link](https://github.com/Verilog-Solutions)
