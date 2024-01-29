@@ -54,6 +54,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [HashEx](https://hashex.org/)                                                        | [Link](https://hashex.org/audits/)
 | [Hexens](https://hexens.io/)                                                         | [Link](https://github.com/Hexens/Smart-Contract-Review-Public-Reports)
 | [Immunebytes](https://www.immunebytes.com/)                                          | [Link](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports/)
+| [Inference AG](https://inference.ag/)                                                | [Link](https://github.com/InferenceAG/ReportPublications)
 | [InformalSystems](https://informal.systems/)                                         | [Link](https://github.com/informalsystems/audits)
 | [Inspex](https://inspex.co/)                                                         | [Link](https://app.inspex.co/library)
 | [InterFi](https://www.interfi.network/)                                              | [Link](https://www.interfi.network/audits)
