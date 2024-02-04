@@ -74,6 +74,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Obelisk](https://obeliskauditing.com/)                                              | [Link](https://obeliskauditing.com/audits)
 | [Omniscia](https://omniscia.io/about-us)                                             | [Link](https://omniscia.io/)
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)
+| [OtterSec](https://osec.io/blog)                                                     | [Link](https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772)
 | [Oxorio](https://oxor.io)                                                            | [Link](https://github.com/oxor-io/public_audits)
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)
