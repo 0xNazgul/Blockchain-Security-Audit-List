@@ -82,6 +82,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Quantstamp](https://quantstamp.com/)                                                | [Link](https://certificate.quantstamp.com)
 | [Quantum Brief](https://quantumbrief.io/)                                            | [Link](https://drive.google.com/drive/folders/1v48mOJcyFCY9Z2EVqdTd5hKrzNrxJ5dy)
 | [QuillAudits](https://audits.quillhash.com/smart-contract-audit)                     | [Link](https://audits.quillhash.com/audits)
+| [Rapid Labs](https://rapidlabs.finance/)                                             | [Link](https://github.com/rapidlabsfinance)
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
 | [REDTEAM.PL](https://redteam.pl/)                                                    | [Link](https://github.com/redteampl/public_reports)
 | [RugDog](https://rugdog.net/)                                                        | [Link](https://github.com/rugdognet/reports)
