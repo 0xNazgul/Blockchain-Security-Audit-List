@@ -1,9 +1,9 @@
 # Blockchain Security Audit List
 A list of Blockchain Security audit companies, solo auditors and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
 
-## Table of contents
+<h2> Table of contents </h2>
+
 - [Blockchain Security Audit List](#blockchain-security-audit-list)
-  - [Table of contents](#table-of-contents)
   - [Audit Companies](#audit-companies)
   - [Solo Auditors](#solo-auditors)
   - [Blockchain Security News](#blockchain-security-news)
@@ -74,7 +74,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Obelisk](https://obeliskauditing.com/)                                              | [Link](https://obeliskauditing.com/audits)
 | [Omniscia](https://omniscia.io/about-us)                                             | [Link](https://omniscia.io/)
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)
-| [OtterSec](https://osec.io/blog)                                                     | [Link](https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772)
+| [OtterSec](https://osec.io)                                                          | [Link](https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772)
 | [Oxorio](https://oxor.io)                                                            | [Link](https://github.com/oxor-io/public_audits)
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)
@@ -129,7 +129,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Akshay Srivastav](https://github.com/akshaysrivastav/audits)       |
 | [bytes032](https://github.com/bytes032/reports)                     |
 | [Dirk Brink](https://github.com/djb15/security-reviews)             |
-| [Gogo](https://github.com/gogotheauditor/audits)                    |
+| [George Hunter](https://github.com/gogotheauditor/audits)           |
 | [GiuseppeDeLaZara](https://github.com/windhustler/audits)           |
 | [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
 | [Jakub Heba](https://github.com/jakub-heba/portfolio)               |
