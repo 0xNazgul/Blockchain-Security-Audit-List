@@ -161,10 +161,12 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 * [DefiLlama](https://defillama.com/hacks)
 * [Hack Analysis POCs](https://github.com/immunefi-team/hack-analysis-pocs)
 * [OpenZeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [Phalcon Security Incidents](https://phalcon.blocksec.com/explorer/security-incidents)
 * [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 * [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
+
 
 [Back to top](#blockchain-security-audit-list)
 
