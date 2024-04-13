@@ -18,11 +18,10 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
 | [Ackee Blockchain](https://ackeeblockchain.com/)                                     | [Link](https://ackeeblockchain.com/blog/list-of-our-public-audits/)
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
-| [Arcadia Group](https://arcadiamgroup.com/)                                          | [Link](https://www.arcadia.agency/auditReports)
 | [Beosin](https://beosin.com/)                                                        | [Link](https://beosin.com/resources)
 | [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)
 | [BlockApex](https://blockapex.io)                                                    | [Link](https://blockapex.io/audit-reports/)   
-| [BlockchainLabs](https://www.blockchainlabs.nz/home)                                 | [Link](https://github.com/BlockchainLabsNZ/audits)
+| [BlockchainLabs](https://bc-labs.net/)                                               | [Link](https://github.com/BlockchainLabsNZ/audits)
 | [BlockSec](https://blocksecteam.com)                                                 | [Link](https://github.com/blocksecteam/audit-reports)
 | [Byterocket](https://byterocket.com/)                                                | [Link](https://byterocket.com/audits)
 | [Callisto Smart Contract Audits](https://callisto.network/smart-contract-audit/)     | [Link](https://audits.callisto.network/)
@@ -68,15 +67,15 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)
 | [MoveBit](https://www.movebit.xyz/)                                                  | [Link](https://www.movebit.xyz/#project)
 | [Nethermind](https://nethermind.io)                                                  | [Link](https://github.com/NethermindEth/PublicAuditReports)
-| [New Alchemy](https://newalchemy.io/)                                                | [Link](https://medium.com/new-alchemy/tagged/security)
+| [New Alchemy](https://newalchemy.com)                                                | [Link](https://medium.com/new-alchemy/tagged/security)
 | [Numen](https://www.numencyber.com/)                                                 | [Link](https://github.com/numencyber/Public_Report)
 | [Oak Security](https://www.oaksecurity.io/)                                          | [Link](https://github.com/oak-security/audit-reports)
-| [Obelisk](https://obeliskauditing.com/)                                              | [Link](https://obeliskauditing.com/audits)
 | [Omniscia](https://omniscia.io/about-us)                                             | [Link](https://omniscia.io/)
 | [OpenZeppelin](https://openzeppelin.com/)                                            | [Link](https://blog.openzeppelin.com/security-audits/)
 | [OtterSec](https://osec.io)                                                          | [Link](https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772)
 | [Oxorio](https://oxor.io)                                                            | [Link](https://github.com/oxor-io/public_audits)
 | [PaladinSec](https://paladinsec.co/)                                                 | [Link](https://paladinsec.co/audits/)
+| [Pashov Audit Group](https://www.pashov.net/)                                        | [Link](https://github.com/pashov/audits) 
 | [PeckShield](https://peckshield.com/en)                                              | [Link](https://github.com/peckshield/publications/tree/master/audit_reports)
 | [PepperSec](https://github.com/peppersec)                                            | [Link](https://github.com/peppersec/public-audit-reports)
 | [Pessemistic](https://pessimistic.io/)                                               | [Link](https://github.com/pessimistic-io/audits)
@@ -98,7 +97,6 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Sigma Prime](https://sigmaprime.io/)                                                | [Link](https://github.com/sigp/public-audits)
 | [SlowMist](https://www.slowmist.com)                                                 | [Link](https://github.com/slowmist/Knowledge-Base/tree/master/open-report-V2)
 | [SmartState](https://smartstate.tech/)                                               | [Link](https://smartstate.tech/reports.html)
-| [SMC Auditors](https://smcauditors.com/index.html)                                   | [Link](https://github.com/smcauditors/smart-contract-audits)
 | [SmolQuants (Economic Audits)](https://www.smolquants.xyz/)                          | [Link](https://github.com/orgs/smolquants/repositories?q=audit&type=all&language=&sort=)
 | [Soken](https://soken.io/)                                                           | [Link](https://soken.io/audit-reports/)
 | [Solidified](https://solidified.io/)                                                 | [Link](https://github.com/solidified-platform/audits)
@@ -133,8 +131,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [GiuseppeDeLaZara](https://github.com/windhustler/audits)           |
 | [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
 | [Jakub Heba](https://github.com/jakub-heba/portfolio)               |
-| [MiloTruck](https://github.com/MiloTruck/audits)                    |
-| [Pashov](https://github.com/pashov/audits)                          |  
+| [MiloTruck](https://github.com/MiloTruck/audits)                    | 
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
 | [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
 | [Zobront](https://github.com/zobront/audits)                        |
