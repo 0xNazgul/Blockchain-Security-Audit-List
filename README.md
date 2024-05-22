@@ -43,6 +43,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Decurity](https://decurity.io/)                                                     | [Link](https://github.com/Decurity/audits)
 | [Dedaub](https://www.dedaub.com/)                                                    | [Link](https://github.com/Dedaub/audits)
 | [Distributed Lab](https://distributedlab.com/)                                       | [Link](https://github.com/dl-solidity-library/audits)
+| [Egis Security](https://www.egissec.com/)                                            | [Link](https://github.com/Egis-Security/audits)
 | [FuzzingLabs](https://fuzzinglabs.com/)                                              | [Link](https://fuzzinglabs.com/fuzzing-vulnerabilities-trophies/)
 | [G0 Group](https://github.com/g0-group)                                              | [Link](https://github.com/g0-group/Audits)
 | [Gauntlet (Economic Audits)](https://www.gauntlet.xyz/)                              | [Link](https://www.gauntlet.xyz/resources)
