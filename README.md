@@ -153,6 +153,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 [Back to top](#blockchain-security-audit-list) 
 
 ## Comprehensive List of Hacks & Exploits
+* [Coinspect's Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
 * [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
 * [DeFi Fork Bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
 * [Defi Hack Analysis](https://github.com/abdulsamijay/Defi-Hack-Analysis-POC)
@@ -166,7 +167,6 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 * [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
-* [Coinspect's Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
 
 
 [Back to top](#blockchain-security-audit-list)
