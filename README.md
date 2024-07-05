@@ -1,14 +1,11 @@
 # Blockchain Security Audit List
-A list of Blockchain Security audit companies, solo auditors and where to find all their public audits. This list also contains security news sources and findings search utilities/DBs. 
+A list of Blockchain Security audit companies, solo auditors and where to find all their public audits.
 
 <h2> Table of contents </h2>
 
 - [Blockchain Security Audit List](#blockchain-security-audit-list)
   - [Audit Companies](#audit-companies)
   - [Solo Auditors](#solo-auditors)
-  - [Blockchain Security News](#blockchain-security-news)
-  - [Comprehensive List of Hacks \& Exploits](#comprehensive-list-of-hacks--exploits)
-  - [Findings Search Utilities/DBs](#findings-search-utilitiesdbs)
   - [Contributing](#contributing)
 
 ## Audit Companies
@@ -138,50 +135,6 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
 | [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
 | [Zobront](https://github.com/zobront/audits)                        |
-
-[Back to top](#blockchain-security-audit-list) 
-
-## Blockchain Security News
-* [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/archive)
-* [HashingBits](https://quillaudits.substack.com/)
-* [Immunefi](https://immunefi.medium.com/)
-* [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
-* [Web3 Security Watch](https://olympix.substack.com/)
-* [Web3Sec News](https://www.web3sec.news/)
-* [Week in Ethereum News](https://weekinethereumnews.com/)
-
-[Back to top](#blockchain-security-audit-list) 
-
-## Comprehensive List of Hacks & Exploits
-* [Coinspect's Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
-* [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
-* [DeFi Fork Bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
-* [Defi Hack Analysis](https://github.com/abdulsamijay/Defi-Hack-Analysis-POC)
-* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
-* [DeFi POC](https://github.com/blocksecteam/defi_poc)
-* [DefiLlama](https://defillama.com/hacks)
-* [Hack Analysis POCs](https://github.com/immunefi-team/hack-analysis-pocs)
-* [OpenZeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
-* [Phalcon Security Incidents](https://phalcon.blocksec.com/explorer/security-incidents)
-* [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
-* [Rekt Leaderboard](https://rekt.news/leaderboard/)
-* [SlowMist Hacked](https://hacked.slowmist.io/en/)
-* [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
-
-
-[Back to top](#blockchain-security-audit-list)
-
-## Findings Search Utilities/DBs
-Great tools for looking for more specific findings
-* [Audit Hero](https://audit-hero.com/finding)
-* [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
-* [Masamune](https://masamune.app/?#)
-* [Public Audit Reports Data](https://github.com/nikitastupin/public-audit-reports-data)
-* [Solodit](https://solodit.xyz)
-* [tintinweb smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb)
-* [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
-  1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
-  2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
 
 [Back to top](#blockchain-security-audit-list) 
 
