@@ -115,6 +115,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Verilog Solutions](https://verilog.solutions/)                                      | [Link](https://github.com/Verilog-Solutions)
 | [yAcademy](https://yacademy.dev/)                                                    | [Link](https://github.com/yacademy/audits)
 | [yAudit](https://yaudit.dev/)                                                        | [Link](https://github.com/yAudit/reports)
+| [Zealynx](https://zealynx.hashnode.dev/)                                             | [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Audit-portfolio.md)
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)
 
