@@ -106,6 +106,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Somish](https://www.somish.com/blockchain/smart-contract-audit/)                    | [Link](https://www.somish.com/portfolio)
 | [Spearbit](https://spearbit.com/)                                                    | [Link](https://github.com/spearbit/portfolio)
 | [Statemind](https://statemind.io/)                                                   | [Link](https://github.com/statemindio/public-audits)
+| [Shield](https://code4rena.com/@Shield)                                              | [Link](https://code4rena.com/@Shield)
 | [TechRate](https://techrate.org/)                                                    | [Link](https://techrate.org/#product-list)
 | [Tech Audit](https://www.tech-audit.org/)                                            | [Link](https://github.com/Tech-Audit/Smart-Contract-Audits)
 | [Trail Of Bits](https://www.trailofbits.com/)                                        | [Link](https://github.com/trailofbits/publications/tree/master/reviews)
