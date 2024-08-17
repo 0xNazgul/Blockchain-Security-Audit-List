@@ -15,6 +15,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
 | [Ackee Blockchain](https://ackeeblockchain.com/)                                     | [Link](https://ackeeblockchain.com/blog/list-of-our-public-audits/)
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
+| [Bail Security](https://bailsec.io/)                                                 | [Link](https://github.com/bailsec/BailSec/tree/main)
 | [Beosin](https://beosin.com/)                                                        | [Link](https://beosin.com/resources)
 | [Blaize](https://blaize.tech/security/)                                              | [Link](https://blaize.tech/clients/)
 | [BlockApex](https://blockapex.io)                                                    | [Link](https://blockapex.io/audit-reports/)   
@@ -29,6 +30,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Chain Safe](https://chainsafe.io/)                                                  | [Link](https://github.com/ChainSafe/audits)
 | [Chain Security](https://chainsecurity.com/)                                         | [Link](https://chainsecurity.com/audits/)
 | [Chainsulting](https://chainsulting.de/)                                             | [Link](https://github.com/chainsulting/Smart-Contract-Security-Audits)
+| [Clarity Alliance](http://www.clarityalliance.org/)                                  | [Link](https://github.com/Clarity-Alliance/audits)
 | [Code4rena](https://code4rena.com/)                                                  | [Link](https://github.com/orgs/code-423n4/repositories?q=findings&type=all&language=&sort=)
 | [CoinFabrik](https://www.coinfabrik.com/)                                            | [Link](https://blog.coinfabrik.com/category/smart-contracts/smart-contract-audit-smart-contracts/)
 | [Coinspect](https://www.coinspect.com/)                                              | [Link](https://github.com/coinspect/publications)
@@ -136,6 +138,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
 | [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
 | [Zobront](https://github.com/zobront/audits)                        |
+| [ABA](https://github.com/abarbatei/audits)                          |
 
 [Back to top](#blockchain-security-audit-list) 
 
