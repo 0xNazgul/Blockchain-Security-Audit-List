@@ -127,6 +127,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 ## Solo Auditors
 | Auditor
 |---|
+| [ABA](https://github.com/abarbatei/audits)                          |
 | [Adrian Romero](https://github.com/romeroadrian/audits)             |
 | [Akshay Srivastav](https://github.com/akshaysrivastav/audits)       |
 | [bytes032](https://github.com/bytes032/bytes032.xyz/tree/main)      |
@@ -138,7 +139,6 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
 | [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
 | [Zobront](https://github.com/zobront/audits)                        |
-| [ABA](https://github.com/abarbatei/audits)                          |
 
 [Back to top](#blockchain-security-audit-list) 
 
