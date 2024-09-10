@@ -121,13 +121,13 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Zealynx](https://zealynx.hashnode.dev/)                                             | [Link](https://github.com/ZealynxSecurity/Zealynx/blob/main/Zealynx-portfolio/audit-portfolio/Audit-portfolio.md)
 | [Zellic](https://www.zellic.io/)                                                     | [Link](https://github.com/Zellic/publications)
 | [Zokyo](https://www.zokyo.io/)                                                       | [Link](https://github.com/zokyo-sec/audit-reports)
+| [0xnirlin](https://x.com/0xnirlin)                                                    | [Link](https://github.com/0xnirlin/Private-Audits)
 
 [Back to top](#blockchain-security-audit-list) 
 
 ## Solo Auditors
 | Auditor
 |---|
-| [0xnirlin](https://x.com/0xnirlin)                                  |
 | [ABA](https://github.com/abarbatei/audits)                          |
 | [Adrian Romero](https://github.com/romeroadrian/audits)             |
 | [Akshay Srivastav](https://github.com/akshaysrivastav/audits)       |
@@ -147,5 +147,3 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 Want to add some? Don't be afraid to contribute anything I might have missed. The only requirement I ask is that the company has public audit reports.
 
 [Back to top](#blockchain-security-audit-list) 
-
-| [0xnirlin](https://github.com/0xnirlin) | [Link](https://github.com/0xnirlin/Private-Audits)
