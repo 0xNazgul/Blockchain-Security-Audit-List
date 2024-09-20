@@ -14,6 +14,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [0xGuard](https://0xguard.com/)                                                      | [Link](https://github.com/0xGuard-com) 
 | [ABDK Consulting](https://www.abdk.consulting/)                                      | [Link](https://github.com/abdk-consulting/audits)                     
 | [Ackee Blockchain](https://ackeeblockchain.com/)                                     | [Link](https://ackeeblockchain.com/blog/list-of-our-public-audits/)
+| [AuditBlock](https://auditblock.report/)                                             | [Link](https://github.com/AuditBlock)
 | [Arbitrary Execution](https://www.arbitraryexecution.com/blog/)                      | [Link](https://github.com/arbitraryexecution/publications)
 | [Bail Security](https://bailsec.io/)                                                 | [Link](https://github.com/bailsec/BailSec/tree/main)
 | [Beosin](https://beosin.com/)                                                        | [Link](https://beosin.com/resources)
