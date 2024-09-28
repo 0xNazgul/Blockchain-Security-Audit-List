@@ -144,6 +144,9 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 [Back to top](#blockchain-security-audit-list) 
 
 ## Contributing
-Want to add some? Don't be afraid to contribute anything I might have missed. The only requirement I ask is that the company has public audit reports.
+Want to add some? Don't be afraid to contribute anything I might have missed. The only requirements are:
+- The company has public audit reports.
+- The company reports are more than just basic static analyzer results.
+- The company doesn’t come off as a scam
 
 [Back to top](#blockchain-security-audit-list) 
