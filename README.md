@@ -87,6 +87,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Rapid Labs](https://rapidlabs.finance/)                                             | [Link](https://github.com/rapidlabsfinance)
 | [RD Auditors](https://www.rdauditors.com/)                                           | [Link](https://www.rdauditors.com/audits/)
 | [REDTEAM.PL](https://redteam.pl/)                                                    | [Link](https://github.com/redteampl/public_reports)
+| [Rezolv](https://www.rezolvsolutions.com/)                                           | [Link](https://github.com/RezolvSolutions/Audits)
 | [RugDog](https://rugdog.net/)                                                        | [Link](https://github.com/rugdognet/reports)
 | [Runtime Verification](https://runtimeverification.com/)                             | [Link](https://github.com/runtimeverification/publications#smart-contracts-security-audit-and-formal-verification)
 | [SBSecurity](https://www.sbsecurity.net/)                                            | [Link](https://github.com/SB-Security/audits)
