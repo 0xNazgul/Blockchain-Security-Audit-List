@@ -65,6 +65,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Kebabsec](https://kebabsec.xyz/)                                                    | [Link](https://kebabsec.xyz/audits/)
 | [Least Authority](https://leastauthority.com/)                                       | [Link](https://leastauthority.com/security-consulting/published-audits/)
 | [Macro](https://0xmacro.com/)                                                        | [Link](https://0xmacro.com/library)
+| [Matter Labs Audits](https://github.com/matter-labs-audits)                          | [Link](https://github.com/matter-labs-audits/reports)
 | [Midgar](https://midgaraudits.xyz/)                                                  | [Link](https://github.com/midgar-audits)   
 | [MixBytes](https://mixbytes.io/)                                                     | [Link](https://github.com/mixbytes/audits_public)
 | [MoveBit](https://www.movebit.xyz/)                                                  | [Link](https://www.movebit.xyz/#project)
