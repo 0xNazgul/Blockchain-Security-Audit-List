@@ -138,7 +138,8 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [GiuseppeDeLaZara](https://github.com/windhustler/audits)           |
 | [HollaDieWaldfee](https://github.com/HollaDieWaldfee100/audits)     |
 | [Jakub Heba](https://github.com/jakub-heba/portfolio)               |
-| [MiloTruck](https://github.com/MiloTruck/audits)                    | 
+| [Martin Marchev](https://github.com/marchev/security-reviews)       |
+| [MiloTruck](https://github.com/MiloTruck/audits)                    |
 | [Sparkware](https://github.com/JeffCX/Sparkware-audit-portfolio)    |
 | [xiaoming9090](https://github.com/xiaoming9090/xiaoming9090)        |
 | [Zobront](https://github.com/zobront/audits)                        |
