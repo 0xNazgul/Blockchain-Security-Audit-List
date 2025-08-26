@@ -95,6 +95,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [Sec3](https://www.sec3.dev/)                                                        | [Link](https://github.com/sec3-service/reports)
 | [Secbit Labs](https://secbit.io/)                                                    | [Link](https://github.com/orgs/sec-bit/repositories?q=audit&type=all&language=&sort=)
 | [Secure3](https://www.secure3.io/)                                                   | [Link](https://github.com/orgs/Secure3Audit/repositories)
+| [SecureDapp](https://securedapp.io/)                                                 | [Link](https://securedapp.io/auditexpress/home)
 | [SharkTeam](https://www.sharkteam.org/)                                              | [Link](https://www.sharkteam.org/#auditReports)
 | [ShellBoxes](https://audit.shellboxes.com/)                                          | [Link](https://github.com/shellboxes/public-audit-reports)
 | [Sherlock](https://www.sherlock.xyz/)                                                | [Link](https://github.com/sherlock-protocol/sherlock-reports)
