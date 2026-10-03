@@ -50,6 +50,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [GuardianAudits](https://guardianaudits.com/)                                        | [Link](https://github.com/GuardianAudits/Audits)
 | [Guardian Solidity Lab](https://lab.guardianaudits.com/)                             | [Link](https://github.com/GuardianAudits/SolidityLabAudits/tree/main)
 | [Hacken](https://hacken.io/)                                                         | [Link](https://hacken.io/audits/)
+| [Hackerbane](https://hackerbane.com/)                                                | [Link](https://hackerbane.com/reports)
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)
 | [Hacxyk](https://hacxyk.com/)                                                        | [Link](https://hacxyk.com/)
 | [HashEx](https://hashex.org/)                                                        | [Link](https://hashex.org/audits/)
