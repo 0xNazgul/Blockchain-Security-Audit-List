@@ -47,7 +47,7 @@ A list of Blockchain Security audit companies, solo auditors and where to find a
 | [FuzzingLabs](https://fuzzinglabs.com/)                                              | [Link](https://fuzzinglabs.com/fuzzing-vulnerabilities-trophies/)
 | [G0 Group](https://github.com/g0-group)                                              | [Link](https://github.com/g0-group/Audits)
 | [Gauntlet (Economic Audits)](https://www.gauntlet.xyz/)                              | [Link](https://www.gauntlet.xyz/resources)
-| [GuardianAudits](https://guardianaudits.com/)                                        | [Link](https://github.com/GuardianAudits/Audits)
+| [Guardian](https://guardian.security/)                                               | [Link](https://github.com/GuardianAudits/Audits)
 | [Guardian Solidity Lab](https://lab.guardianaudits.com/)                             | [Link](https://github.com/GuardianAudits/SolidityLabAudits/tree/main)
 | [Hacken](https://hacken.io/)                                                         | [Link](https://hacken.io/audits/)
 | [HALBORN](https://halborn.com/)                                                      | [Link](https://github.com/HalbornSecurity/PublicReports)
